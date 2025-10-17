@@ -52,3 +52,5 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+*.suo
+/src/doc-sumarizer/.vs/doc-sumarizer
